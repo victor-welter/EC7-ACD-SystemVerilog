@@ -1,0 +1,59 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/Victor Welter/Documents/Git/EC7-ACD-SystemVerilog/Lista 2 SystemVerilog/exe1/sim
+vexe1
+Z1 DXx6 sv_std 3 std 0 22 VYECXdT12H8WgbUP_5Y6:3
+Z2 !s110 1725490414
+!i10b 1
+!s100 Hjl2Hzmb2T=jFb:a8A5OV2
+Z3 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IPl7BY269IVaQY5FVPO36R1
+Z4 VDg1SIo80bB@j0V0VzS_@n1
+S1
+R0
+w1725487797
+8../rtl/exe1.sv
+F../rtl/exe1.sv
+!i122 6
+L0 9 16
+Z5 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z6 !s108 1725490414.000000
+!s107 ../rtl/exe1.sv|
+!s90 -reportprogress|300|../rtl/exe1.sv|
+!i113 1
+Z7 tCvgOpt 0
+vtestbench
+R1
+R2
+!i10b 1
+!s100 hZkn]bTYHOESjGkSe[nI71
+R3
+I]^hhd9GI;P>ocd_]2e3oT0
+R4
+S1
+R0
+w1725490100
+8testbench.sv
+Ftestbench.sv
+!i122 7
+L0 1 35
+R5
+r1
+!s85 0
+31
+R6
+!s107 testbench.sv|
+!s90 -reportprogress|300|testbench.sv|
+!i113 1
+R7

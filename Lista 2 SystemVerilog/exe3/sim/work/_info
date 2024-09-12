@@ -1,0 +1,83 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/Victor Welter/Documents/Git/EC7-ACD-SystemVerilog/Lista 2 SystemVerilog/exe2/sim
+vexe2
+Z1 DXx6 sv_std 3 std 0 22 VYECXdT12H8WgbUP_5Y6:3
+!s110 1725491808
+!i10b 1
+!s100 QRS[SIhK:=M1L>L0H44[n1
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IhMLoUm=z4A?6OXh@JieKe3
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+S1
+R0
+w1725488405
+8../rtl/exe2.sv
+F../rtl/exe2.sv
+!i122 0
+L0 6 6
+Z4 OV;L;2020.1;71
+r1
+!s85 0
+31
+!s108 1725491808.000000
+!s107 ../rtl/exe2.sv|
+!s90 -reportprogress|300|../rtl/exe2.sv|
+!i113 1
+Z5 tCvgOpt 0
+vexe3
+R1
+!s110 1725492963
+!i10b 1
+!s100 ;GQBbRJHeeZGUUoioJYX32
+R2
+IG]cO28e^ndaGfI6EWO`k73
+R3
+S1
+Z6 dC:/Users/Victor Welter/Documents/Git/EC7-ACD-SystemVerilog/Lista 2 SystemVerilog/exe3/sim
+w1725492607
+8../rtl/exe3.sv
+F../rtl/exe3.sv
+!i122 2
+L0 7 10
+R4
+r1
+!s85 0
+31
+!s108 1725492963.000000
+!s107 ../rtl/exe3.sv|
+!s90 -reportprogress|300|../rtl/exe3.sv|
+!i113 1
+R5
+vtestbench
+R1
+!s110 1725492964
+!i10b 1
+!s100 NlDkB0oDoFJ7:0L`MbG6c1
+R2
+I9MHA1G>S8jd<_hJeELm8W0
+R3
+S1
+R6
+w1725492642
+8testbench.sv
+Ftestbench.sv
+!i122 3
+L0 1 23
+R4
+r1
+!s85 0
+31
+!s108 1725492964.000000
+!s107 testbench.sv|
+!s90 -reportprogress|300|testbench.sv|
+!i113 1
+R5
